@@ -1,3 +1,19 @@
+header{
+    
+    color: rgb(46, 107, 46);
+}
+hr{
+    background-color: black;
+}
+
+
 body{
-background-color: rgb(135, 187, 30);
+background-color: rgba(234, 111, 17, 0.79);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+footer{
+    margin-top: auto;
+    color: rgb(46, 107, 46);
 }
