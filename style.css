@@ -1,6 +1,7 @@
 header{
-    
+    margin-bottom: 15px;
     color: rgb(46, 107, 46);
+    background-color: rgb(216, 187, 150);
 }
 hr{
     background-color: black;
@@ -16,4 +17,5 @@ background-color: rgba(234, 111, 17, 0.79);
 footer{
     margin-top: auto;
     color: rgb(46, 107, 46);
+    background-color: rgb(216, 187, 150);
 }
